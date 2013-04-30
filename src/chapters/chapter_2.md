@@ -1,3 +1,3 @@
-# Chapter Two
+# Chapter Two: Pulling The Strings
 
-This is a paragraph.
+Place real content here.
