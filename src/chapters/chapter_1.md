@@ -11,12 +11,21 @@ For the people at [RackSpace](http://rackspace.com/), it's an important part of 
 
 For the operations team at [GitHub](https://github.com), it has been a very important part of [their lifestyle](https://speakerdeck.com/jnewland/chatops).
 
+
+But for most people, Puppet is a way of doing something we call 
+
+<h2>Infrastructure As Code.</h2>
+
+We'll dig into this more shortly.
+
 ## Why Do We Care?
 
 The answer is...
 
 <h1>We Don't.</h1><h4>Yet.</h4>
 
+
+## What Is this "Infrastructure As Code" Thing You Mentioned?
 
 ## The Difference Between Puppet And DevOps.
 
