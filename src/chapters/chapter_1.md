@@ -4,4 +4,3 @@
 ## Why Do We Care?
 
 ## The Difference Between Puppet And DevOps.
-
