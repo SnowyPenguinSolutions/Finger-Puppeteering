@@ -1,4 +1,4 @@
-src=src/index.md
+src=src/chapters/all.md
 title='Finger Puppeteering'
 file='Finger-Puppeteering'
 

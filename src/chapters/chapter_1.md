@@ -59,9 +59,10 @@ The sum of this is that if you're releasing more than once a day, you're practic
 ![](images/ship_it_squirrel.png)
 
 
+
 Basically, you have this squirrel that is just saying "SHIPIT!". This is important. Shipping your product is important. 
 
-Now, you can practice DevOps without using Puppet.
+Now, note that you can practice DevOps without using Puppet. It's just much easier when you automate yourself out of a job, and into a job of automating 2 other people out of a job. Allowing them to go forth, learn to automate someone else out of a job, and the vicious cycle continues. But isn't that what we've been doing for thousands of years?
 
 ## A Few Notes.
 
@@ -74,7 +75,3 @@ The demos in this book will be using a 12.04 LTS Ubuntu Server virtual machine. 
 [A guest post on ReadWrite by a founder of Puppet Labs](http://readwrite.com/2011/08/23/devops-what-it-is-why-it-exist). From 2011, but a good read nonetheless.
 
 [What is DevOps?](http://theagileadmin.com/what-is-devops/) A good read on The Agile Admin, a site about being a Agile systems administrator.
-
-
-
-
